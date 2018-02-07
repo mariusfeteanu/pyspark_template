@@ -1,5 +1,7 @@
 
-### Dev setup on OSX
+### Dev setup
+
+####OSX
 
 `xcode-select --install`
 
